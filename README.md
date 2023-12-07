@@ -2,7 +2,7 @@
 
 <a name="readme-top"></a>
 <div align="center">
-    <img src="logo.png" alt="logo" width="750"  height="auto" />
+    <img src="vet-logo.png" alt="logo" width="750"  height="auto" />
   <br/>
   <h3><b>Vet Clinic Ruby</b></h3>
 </div>
