@@ -11,7 +11,7 @@ class DogFood
 end
 
 class SpiderFood
-  def liked(food)
+  def liked?(food)
     %w[insect bug].member?(food)
   end
 end
