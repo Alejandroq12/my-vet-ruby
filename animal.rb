@@ -2,7 +2,7 @@ require './remover'
 require './food'
 
 class Animal
-  attr_accessor :name
+  attr_accessor :name, :owner
   attr_reader :id, :type, :number_of_legs
 
   def initialize(type, number_of_legs, name = 'Unknown')
